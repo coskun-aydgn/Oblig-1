@@ -4,7 +4,7 @@ Oslomet brukernavn : coayd2324
 
 GitHub brukernavn : coskun-aydgn
 
-GitHub repo URL : https://github.com/coskun-aydgn/oblig-1-coskun-aydgn.git
+GitHub repo URL : https://github.com/coskun-aydgn/Oblig-1.git
 
 Fullt navn : Coskun Aydogan
 
